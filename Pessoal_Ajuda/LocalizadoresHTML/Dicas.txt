@@ -1,0 +1,3 @@
+$ = termina com
+* = Contem
+^ = Começa com

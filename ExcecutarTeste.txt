@@ -1,0 +1,12 @@
+/c/QAx/projects/zombieplus
+$ npx playwright test --headed
+
+
+com debug
+/c/QAx/projects/zombieplus
+$ npx playwright test --debug
+
+
+Interface grafica do playwright
+npx playwright test --ui
+
