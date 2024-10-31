@@ -1,0 +1,68 @@
+{
+    "create": {
+      "title": "Guerra Mundial Z a Serie",
+      "overview": "Um ex-investigador da ONU é chamado para investigar a propagação de um vírus mortal que transforma as vítimas em zumbis, ameaçando dizimar a população mundial.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "seasons": "1",
+      "featured": true,
+      "cover": "/covers/tvshows/wwz.png"
+    },
+    "duplicate": {
+      "title": "Resident Evil a Serie",
+      "overview": "Alice se junta a sobreviventes para enfrentar a Corporação Umbrella e os zumbis mutantes criados por ela.",
+      "company": "Sony Pictures",
+      "release_year": 2002,
+      "seasons": "2",
+      "featured": false,
+      "cover": "/covers/tvshows/resident-evil.jpg"
+    },
+    "to_remove": {
+      "title": "A Noite dos Mortos-Vivos a Serie",
+      "overview": "Um grupo de pessoas fica preso em uma casa enquanto zumbis canibais famintos cercam o local.",
+      "company": "Universal Pictures",
+      "release_year": 1968,
+      "seasons": "3",
+      "featured": false,
+      "cover": "/covers/tvshows/mortos-vivos.jpg"
+    },
+    "search": {
+      "input": "zumbi",
+      "outputs": [
+        "Zumbilândia a Serie",
+        "Orgulho e Preconceito e Zumbis a Serie",
+        "Meu Namorado é um Zumbi a Serie"
+      ],
+      "data": [
+        {
+          "title": "Zumbilândia a Serie",
+          "overview": "Um grupo improvável de sobreviventes navega por um mundo cheio de zumbis, tentando encontrar um lugar seguro.",
+          "company": "Sony Pictures",
+          "release_year": 2009,
+          "seasons": "4",
+          "featured": true,
+          "cover": "/covers/tvshows/zumbilandia.jpg"
+        },
+        {
+          "title": "Orgulho e Preconceito e Zumbis a Serie",
+          "overview": "Elizabeth Bennet e Sr. Darcy unem forças para combater uma praga de zumbis que assola a Inglaterra.",
+          "company": "Universal Pictures",
+          "release_year": 2016,
+          "seasons": "5",
+          "featured": false,
+          "cover": "/covers/tvshows/opz.jpg"
+        },
+        {
+          "title": "Meu Namorado é um Zumbi a Serie",
+          "overview": "Em um mundo pós-apocalíptico, uma jovem se apaixona por um zumbi que ainda preserva algumas características humanas.",
+          "company": "Fox Entertainment",
+          "release_year": 2013,
+          "seasons": "6",
+          "featured": false,
+          "cover": "/covers/tvshows/warm-bodies.jpg"
+        }
+
+      ]
+    }
+  }
+  
